@@ -2,7 +2,7 @@ import ee
 from IPython.display import Image
 
 ee.Authenticate()
-ee.Initialize(project='project-5b26aee2-ba73-4892-90c')
+ee.Initialize(project='')
 #Import dataset
 
 data = ee.ImageCollection('MODIS/061/MCD15A3H')
