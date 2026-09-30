@@ -65,3 +65,6 @@ project_tree.txt
 # OS/editor clutter
 .DS_Store
 Thumbs.db
+
+# ignore files with account information
+/modules/bio-data2.py
