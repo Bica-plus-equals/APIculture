@@ -23,7 +23,7 @@ The project now inclues
 <img width="539" height="395" alt="image" src="https://github.com/user-attachments/assets/97569d9e-11ec-4a74-a7b4-a80e006898f3" />
 
 
-<img width="539" height="395" alt="image" src="https://github.com/user-attachments/assets/4621752f-7118-47cf-a8b3-ed6e5c5d5b2d" />
+<img width="527" height="403" alt="image" src="https://github.com/user-attachments/assets/58cf438d-fa77-4baf-bd61-09e9b83054f2" />
 
 
 Investigated NDVI distribution for data checking
@@ -33,7 +33,7 @@ Investigated NDVI distribution for data checking
 
 ### Identified data quality issues due to cloud coverage
 
-![Uploading image.png…]()
+<img width="1790" height="590" alt="image" src="https://github.com/user-attachments/assets/d34bd211-a635-4338-b363-2da1faeb5b14" />
 
 
 # Climate & Pollination Dashboard Prototype
