@@ -20,15 +20,7 @@ The project now inclues
 
 **Data checks and cleaning**
 
-<img width="539" height="395" alt="image" src="https://github.com/user-attachments/assets/97569d9e-11ec-4a74-a7b4-a80e006898f3" />
-
-
-<img width="527" height="403" alt="image" src="https://github.com/user-attachments/assets/58cf438d-fa77-4baf-bd61-09e9b83054f2" />
-
-
-Investigated NDVI distribution for data checking
-
-<img width="588" height="432" alt="image" src="https://github.com/user-attachments/assets/ed4eaf9c-cb10-4656-aa95-4ff0bee15c21" />
+<img width="539" height="395" alt="image" src="https://github.com/user-attachments/assets/97569d9e-11ec-4a74-a7b4-a80e006898f3" /> <img width="527" height="403" alt="image" src="https://github.com/user-attachments/assets/58cf438d-fa77-4baf-bd61-09e9b83054f2" />
 
 
 ### Identified data quality issues due to cloud coverage
