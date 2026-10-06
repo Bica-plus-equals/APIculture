@@ -13,7 +13,8 @@ The project now inclues
 
 ## Update (13rd August 2026): **Created the dashboard frontend prototype containing maps, statistics, and calendar view**
 
-!image.png
+<img width="1433" height="792" alt="image" src="https://github.com/user-attachments/assets/4fbeb7e0-5d50-4933-a1b2-f4c806a95878" />
+
 
 ## Update(3rd Aug 2026): **Exported the satellite images using Google Eath Engine API and managed the outputs in Python and Google Drive.**
 
