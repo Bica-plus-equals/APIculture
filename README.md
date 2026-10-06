@@ -1,6 +1,6 @@
 ## Update: Created the GitHub repository and published the full-stack architecture
 
-The project now inclues
+The project now includes
 
 - a working front-end showcasing weather data
 - a pipeline for image forecasts from the Machine Learning Model
