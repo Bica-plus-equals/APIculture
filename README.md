@@ -1,3 +1,36 @@
+## Update: Created the GitHub repository and published the full-stack architecture
+
+The project now inclues
+
+- a working front-end showcasing weather data
+- a pipeline for image forecasts from the Machine Learning Model
+- a HTTP connection via FastAPI between user input (forecasting date) and model output
+
+## Outstanding
+
+- Model training , fine tuning and feature engineering
+- Database for cached forecasts
+
+## Update (13rd August 2026): **Created the dashboard frontend prototype containing maps, statistics, and calendar view**
+
+!image.png
+
+## Update(3rd Aug 2026): **Exported the satellite images using Google Eath Engine API and managed the outputs in Python and Google Drive.**
+
+**Data checks and cleaning**
+
+!download.png
+
+!Investigated NDVI distribution for data checking.png)
+
+Investigated NDVI distribution for data checking
+
+!download (1).png.png)
+
+### Identified data quality issues due to cloud coverage
+
+!image.png
+
 # Climate & Pollination Dashboard Prototype
 
 This repository contains two small applications that communicate over HTTP:
