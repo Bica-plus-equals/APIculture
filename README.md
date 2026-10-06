@@ -20,17 +20,21 @@ The project now inclues
 
 **Data checks and cleaning**
 
-!download.png
+<img width="539" height="395" alt="image" src="https://github.com/user-attachments/assets/97569d9e-11ec-4a74-a7b4-a80e006898f3" />
 
-!Investigated NDVI distribution for data checking.png)
+
+<img width="539" height="395" alt="image" src="https://github.com/user-attachments/assets/4621752f-7118-47cf-a8b3-ed6e5c5d5b2d" />
+
 
 Investigated NDVI distribution for data checking
 
-!download (1).png.png)
+<img width="588" height="432" alt="image" src="https://github.com/user-attachments/assets/ed4eaf9c-cb10-4656-aa95-4ff0bee15c21" />
+
 
 ### Identified data quality issues due to cloud coverage
 
-!image.png
+![Uploading image.png…]()
+
 
 # Climate & Pollination Dashboard Prototype
 
